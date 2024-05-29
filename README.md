@@ -3,7 +3,7 @@
 - Họ và tên: Nguyễn Quốc Tuấn
 - MSV: 23020643
 - Lớp: K68N
-## CHI TIẾT GAME:
+# CHI TIẾT GAME:
 ## HƯỚNG DẪN:
 ### CÁC PHÍM TRONG GAME:
 - W,A,S,D: để di chuyển xung quanh
